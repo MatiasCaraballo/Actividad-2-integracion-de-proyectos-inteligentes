@@ -1,0 +1,5 @@
+com/example/shop/jdbc/ConnectionFactory.class
+com/example/shop/model/Producto.class
+com/example/shop/jdbc/ProductoJdbcDAO.class
+com/example/shop/dao/ProductoDAO.class
+com/example/shop/MainJdbc.class
