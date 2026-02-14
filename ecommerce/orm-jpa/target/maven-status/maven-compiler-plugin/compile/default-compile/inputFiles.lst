@@ -1,1 +1,5 @@
-/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/orm-jpa/src/main/java/com/example/shop/App.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/orm-jpa/src/main/java/com/example/ecommerce/model/Product.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/orm-jpa/src/main/java/com/example/ecommerce/Main.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/orm-jpa/src/main/java/com/example/ecommerce/dao/ProductDAO.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/orm-jpa/src/main/java/com/example/ecommerce/dao/ProductDAOImpl.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/orm-jpa/src/main/java/com/example/ecommerce/config/JPAUtil.java
