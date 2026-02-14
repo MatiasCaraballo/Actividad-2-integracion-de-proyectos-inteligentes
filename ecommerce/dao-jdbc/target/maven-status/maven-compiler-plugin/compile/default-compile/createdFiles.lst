@@ -1,5 +1,5 @@
-com/example/shop/jdbc/ConnectionFactory.class
-com/example/shop/model/Producto.class
-com/example/shop/jdbc/ProductoJdbcDAO.class
-com/example/shop/dao/ProductoDAO.class
-com/example/shop/MainJdbc.class
+com/example/ecommerce/dao/ProductoDAO.class
+com/example/ecommerce/jdbc/ConnectionFactory.class
+com/example/ecommerce/MainJdbc.class
+com/example/ecommerce/jdbc/ProductoJdbcDAO.class
+com/example/ecommerce/model/Producto.class

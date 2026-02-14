@@ -1,7 +1,7 @@
-package com.example.shop.jdbc;
+package com.example.ecommerce.jdbc;
 
-import com.example.shop.dao.ProductoDAO;
-import com.example.shop.model.Producto;
+import com.example.ecommerce.dao.ProductoDAO;
+import com.example.ecommerce.model.Producto;
 
 import java.sql.*;
 import java.util.ArrayList;

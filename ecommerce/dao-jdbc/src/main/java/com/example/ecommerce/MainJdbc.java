@@ -1,7 +1,7 @@
-package com.example.shop;
+package com.example.ecommerce;
 
-import com.example.shop.jdbc.ProductoJdbcDAO;
-import com.example.shop.model.Producto;
+import com.example.ecommerce.jdbc.ProductoJdbcDAO;
+import com.example.ecommerce.model.Producto;
 
 public class MainJdbc {
 

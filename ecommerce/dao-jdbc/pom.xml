@@ -6,12 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.example</groupId>
+    <groupId>com.example.ecommerce</groupId>
     <artifactId>ecommerce</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <groupId>com.example.shop</groupId>
   <artifactId>dao-jdbc</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -42,7 +41,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.1.0</version>
         <configuration>
-          <mainClass>com.example.shop.MainJdbc</mainClass>
+          <mainClass>com.example.ecommerce.MainJdbc</mainClass>
         </configuration>
       </plugin>
     </plugins>

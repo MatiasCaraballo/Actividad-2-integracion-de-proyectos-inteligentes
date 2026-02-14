@@ -1,6 +1,6 @@
-package com.example.shop.dao;
+package com.example.ecommerce.dao;
 
-import com.example.shop.model.Producto;
+import com.example.ecommerce.model.Producto;
 import java.util.List;
 
 public interface ProductoDAO {

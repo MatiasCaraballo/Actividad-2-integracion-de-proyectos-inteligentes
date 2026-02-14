@@ -1,4 +1,4 @@
-package com.example.shop.model;
+package com.example.ecommerce.model;
 
 public class Producto {
 

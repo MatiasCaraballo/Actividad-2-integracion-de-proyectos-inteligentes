@@ -1,5 +1,5 @@
-/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/shop/jdbc/ProductoJdbcDAO.java
-/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/shop/jdbc/ConnectionFactory.java
-/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/shop/dao/ProductoDAO.java
-/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/shop/model/Producto.java
-/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/shop/MainJdbc.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/ecommerce/dao/ProductoDAO.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/ecommerce/model/Producto.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/ecommerce/jdbc/ProductoJdbcDAO.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/ecommerce/MainJdbc.java
+/home/matias/desarrollo/integracion-proyectos-inteligentes/actividad2/ecommerce/dao-jdbc/src/main/java/com/example/ecommerce/jdbc/ConnectionFactory.java

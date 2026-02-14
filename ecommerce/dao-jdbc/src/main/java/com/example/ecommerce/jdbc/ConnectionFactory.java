@@ -1,4 +1,4 @@
-package com.example.shop.jdbc;
+package com.example.ecommerce.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
